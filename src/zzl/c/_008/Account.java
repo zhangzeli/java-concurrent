@@ -22,7 +22,7 @@ public class Account{
 		this.balance=balance;
 	}
 	
-	public double getBalance(String name) {
+	public /*synchronized*/ double getBalance(String name) {
 		return this.balance;
 	}
 	
