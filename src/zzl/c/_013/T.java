@@ -1,6 +1,6 @@
 /**
  * volatile,并不能保证原子性
- * 对比上一个程序，可以用synchronized解决，synchronized可以保证可见性和原子性
+ *
  * @author zhangzeli
  */
 package zzl.c._013;
@@ -11,7 +11,7 @@ import java.util.List;
 public class T {
 	
 	/*volatile*/ int count =0;
-	synchronized void m() {
+	 void m() {
 		for(int i =0;i<10000;i++) {
 			count++;
 		}

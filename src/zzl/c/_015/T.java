@@ -1,19 +1,20 @@
 /**
- * volatile,并不能保证原子性
- *  对比上一个程序，可以用synchronized解决，synchronized可以保证可见性和原子性
+ * 解决同样的问题更高效的方法， 使用AtomXXX类
  * @author zhangzeli
  */
-package zzl.c._014;
+package zzl.c._015;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class T {
 	
-	/*volatile*/ int count =0;
-	synchronized void m() {
+	/*volatile int count =0;*/
+	AtomicInteger count = new AtomicInteger(0);
+	/*synchronized*/ void m() {
 		for(int i =0;i<10000;i++) {
-			count++;
+			count.incrementAndGet();
 		}
 	}
 	public static void main(String[] args) {
