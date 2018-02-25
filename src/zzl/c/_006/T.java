@@ -1,8 +1,8 @@
 /**
- * 分析一下这个程序的输出
+ * 对比上面一个程序，分析一下这个程序的输出
  * @author zhangzeli
  */
-package zzl.c._005;
+package zzl.c._006;
 
 public class T implements Runnable{
 	
