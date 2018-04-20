@@ -2,44 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e41bf62-cabe-4693-8825-f42ac893d6e1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_001/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_002/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_003/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_004/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_005/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_006/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_007/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_008/Account.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_009/DeadLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_009/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_010/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_010/TT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_011/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_012/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_013/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_014/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_015/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_015/T2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_016/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_016/T2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_017/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_018/T.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_019/MyContainer1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_019/MyContainer2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_019/MyContainer3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_019/MyContainer4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_020/ReentrantLock1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_020/ReentrantLock2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_020/ReentrantLock3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_020/ReentrantLock4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_020/ReentrantLock5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_021/MyContainer1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_021/MyContainer2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_022/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_022/Person1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_022/ThreadLocal1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/zzl/c/_022/ThreadLocal2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/思考题" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -68,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="221">
-                <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -182,8 +144,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-143" />
-    <option name="y" value="89" />
+    <option name="x" value="47" />
+    <option name="y" value="14" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -650,15 +612,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524224363618</updated>
-      <workItem from="1524224368100" duration="785000" />
+      <workItem from="1524224368100" duration="962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="785000" />
+    <option name="totallyTimeSpent" value="962000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-143" y="89" width="1936" height="1066" extended-state="0" />
+    <frame x="47" y="14" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -801,8 +763,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="221">
-            <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
