@@ -1,6 +1,7 @@
 package com.test.version3future;
 
 import java.util.concurrent.Callable;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
@@ -21,6 +22,8 @@ public class FutureCook {
     static class Shicai {}
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
+
+
         long startTime = System.currentTimeMillis();
         // 第一步 网购厨具
         Callable<Chuju> onlineShopping = new Callable<Chuju>() {
